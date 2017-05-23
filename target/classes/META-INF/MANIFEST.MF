@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springresttest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: roshankumarm
+Implementation-Vendor-Id: com.roshantest
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/roshan-sprin
+ gresttest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
